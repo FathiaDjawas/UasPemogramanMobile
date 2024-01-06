@@ -36,8 +36,7 @@
 
 - Java
 - HelloActivity.java
-- 
-C
+  
 package com.Fathiaapps;
 
 import android.os.Bundle;
