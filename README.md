@@ -104,7 +104,7 @@ public class HelloActivity extends AppCompatActivity {
 
 - ScrollMovieActivity.java
 ```
-package com.tiaraapps;
+package com.Fathiaapps;
 
 import android.os.Bundle;
 
@@ -477,7 +477,7 @@ public class SendActivity extends AppCompatActivity {
 ```
 - ReplyActivity.java
 ```
-package com.tiaraapps;
+package com.Fathiaapps;
 
 import androidx.appcompat.app.AppCompatActivity;
 
