@@ -1551,11 +1551,8 @@ public class ViewAdapter extends FragmentStateAdapter {
 </RelativeLayout>
 
 
+
+https://github.com/FathiaDjawas/UasPemogramanMobile/assets/115916422/9d1d87bf-88c9-4053-b505-9449ec0d198c
+
+
 # Done, Terima kasih
-
-
-  
-
-
-
-
